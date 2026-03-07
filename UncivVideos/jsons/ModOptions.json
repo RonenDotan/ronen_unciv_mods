@@ -1,3 +1,6 @@
 {
-  "uniques": ["Should only be used as permanent audiovisual mod"]
+  "name": "My Gifs And Videos",
+  "version": "1.0.0",
+  "uniques": ["Should only be used as permanent audiovisual mod"],
+  "author": "Ronen"
 }
