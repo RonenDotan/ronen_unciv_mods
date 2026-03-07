@@ -1,0 +1,7 @@
+{
+  "name": "My Music Pack",
+  "version": "1.0.0",
+  "author": "Ronen",
+  "description": "Adds local music tracks.",
+  "type": "audio"
+}
